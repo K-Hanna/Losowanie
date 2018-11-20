@@ -29,7 +29,7 @@ public class Liczba {
                 break;
             }
             if (point == 5){
-                System.out.print("Nie udało Ci się zgadnąć" + "/n" +
+                System.out.print("Nie udało Ci się zgadnąć" + "\n" +
                         "Wylosowana liczba to: " + liczba2);
                 break;
             }
